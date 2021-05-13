@@ -13,4 +13,4 @@ test('title', () => {
 
 See example in the `example` directory.
 
-
+Inspired by Kent C Dodds' course on Testing in JS.
