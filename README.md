@@ -11,4 +11,6 @@ test('title', () => {
 })
 ```
 
+See example in the `example` directory.
+
 
